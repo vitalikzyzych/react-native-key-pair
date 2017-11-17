@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/src/release/jniLibs"/></dataSet></merger>

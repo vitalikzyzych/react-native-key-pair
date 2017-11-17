@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 55,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]

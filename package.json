@@ -1,0 +1,40 @@
+{
+  "_from": "git://github.com/viktorVashash/react-native-pair-key.git#master",
+  "_id": "react-native-key-pair@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-wP1LZ/Ic7cSmvvGGbIqhFXVZGpE=",
+  "_location": "/react-native-key-pair",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/viktorVashash/react-native-pair-key.git#master",
+    "rawSpec": "git://github.com/viktorVashash/react-native-pair-key.git#master",
+    "saveSpec": "git://github.com/viktorVashash/react-native-pair-key.git#master",
+    "fetchSpec": "git://github.com/viktorVashash/react-native-pair-key.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git://github.com/viktorVashash/react-native-pair-key.git#3c3150629da9725caccde637accb365140c8a50e",
+  "_spec": "git://github.com/viktorVashash/react-native-pair-key.git#master",
+  "_where": "/Users/vitalikzyzych/Projects/Scriptel/ms-mobile",
+  "author": {
+    "name": "Sam Saffron"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "RSA key public key generator for iOS and Android",
+  "keywords": [
+    "react-native",
+    "rsa"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-key-pair",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

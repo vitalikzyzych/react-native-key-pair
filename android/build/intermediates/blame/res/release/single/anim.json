@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/5701182733dc307d84d906dd4ae199c6d277b6ee/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/5701182733dc307d84d906dd4ae199c6d277b6ee/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

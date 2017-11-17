@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/viktorvasas/Downloads/msign-mobile/node_modules/react-native-key-pair-master/android/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/viktorvasas/.android/build-cache/18c9ad8a8df4c1c44cc0377f6e80980b69945c95/output/res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]
