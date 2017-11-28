@@ -50,24 +50,14 @@ public class RNKeyPairModule extends ReactContextBaseJavaModule {
       byte[] publicKey = keyPair.getPublic().getEncoded();
       byte[] privateKey = keyPair.getPrivate().getEncoded();
 
-
-      SubjectPublicKeyInfo spkInfo = SubjectPublicKeyInfo.getInstance(publicKey);
-      ASN1Primitive primitive = spkInfo.parsePublicKey();
-      byte[] publicKeyPKCS1 = primitive.getEncoded();
-
-      PemObject pemObject = new PemObject("RSA PUBLIC KEY", publicKeyPKCS1);
+      PemObject pemObject = new PemObject("PUBLIC KEY", publicKey);
       StringWriter stringWriter = new StringWriter();
       PemWriter pemWriter = new PemWriter(stringWriter);
       pemWriter.writeObject(pemObject);
       pemWriter.close();
       keys.putString("public", stringWriter.toString());
 
-      PrivateKeyInfo pkInfo = PrivateKeyInfo.getInstance(privateKey);
-      ASN1Encodable encodeable = pkInfo.parsePrivateKey();
-      ASN1Primitive primitive2 = encodeable.toASN1Primitive();
-      byte[] privateKeyPKCS1 = primitive2.getEncoded();
-
-      PemObject pemObject2 = new PemObject("RSA PRIVATE KEY", privateKeyPKCS1);
+      PemObject pemObject2 = new PemObject("PRIVATE KEY", privateKey);
       StringWriter stringWriter2 = new StringWriter();
       PemWriter pemWriter2 = new PemWriter(stringWriter2);
       pemWriter2.writeObject(pemObject2);
